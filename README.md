@@ -4,4 +4,18 @@ This project is conducted to predict the price of volkswagen cars. The Volkswage
 
 ![Logo](https://github.com/psalishol/Volkwagen-Car-Price-Prediction/blob/main/project%20pipeline.PNG?raw=true)
 
-### Data Collection
+### Data and features
+The data used for this project is gotten from kaggle.
+
+Features in the data include
+- year
+- model
+- mileage
+- fuelType
+- mpg
+- transmission
+- tax
+- enginesize
+
+### Exploration and Analysis
+
