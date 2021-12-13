@@ -1,7 +1,7 @@
 # Volkwagen-Car-Price-Prediction
 This project attempts to model and predict Car prices made by volkswagen. main aim of the project is to analyse the main feature in predicting the price of the car made by this company.
 #### project status: Active
-#### Current F1_score: 0.9445
+#### Current r2_score: 0.9445
 #### RMSE: 0.234
 
 
